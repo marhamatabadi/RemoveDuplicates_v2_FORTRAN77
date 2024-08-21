@@ -46,7 +46,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 -   `nums`  is sorted in  **non-decreasing**  order.
 
 ## Solution
-**Since my favorit programing language is FORTRAN I solve it with FORTRAN77!** 
+**Since my favorite programming language is FORTRAN, I solved it with FORTRAN 77!** 
 
 ![Solution](/Image.jpg)
 
